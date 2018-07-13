@@ -1,0 +1,22 @@
+#app{
+    width: 260px;
+    height:300px;
+    border-radius: 1%;
+    border:1px solid grey;
+    background-color:white;
+    padding-left:5px;
+    margin:0 auto;
+}
+.btn{
+    box-shadow: none;
+    border:1px solid black;
+    border-radius:3px;
+    display: inline-block;
+    background:black;
+    color:white;
+}
+.loginSuccess{text-align: center}
+.red{color:red;}
+.green{color:green;}
+.dClass{margin-left:10px;}
+.center{text-align: center;}
